@@ -52,10 +52,6 @@ Software Distribution Notice: https://peterdeceuster.uk/doc/code-terms
 This software is released under the FPA General Code License.
 
   
- virustotal for the exe: MD5 f058e7c29090f1b9d008aa2c5189f411
- (0 false positives and 63 passed)
-https://www.virustotal.com/gui/file/b12942524a94130e906b17ad74759bcb124d61aceeb41393703098f8ffad97d1/detection
- 
  
  
  
